@@ -20,7 +20,7 @@ This project is a Power BI dashboard that provides an interactive visualization 
 
 
 ### Key Features:
-- IMDb Rating Display: A formatted measure displaying IMDb ratings as "7.2/10", mimicking the official IMDb style.
+- IMDb Rating Display (e.g., 7.2/10), Rotten Tomatoes(80/100), Metacritic critic score Display(65/100).
 - Dynamic Image Display: Clicking a movie name updates its corresponding poster dynamically.
 - Box Office & ROI Calculation: Budget vs. worldwide box office earnings to determine return on investment (ROI).
 - Awards & Nominations Tracking: Categorized into "Won," "Nominated," and "Special Achievement" awards.

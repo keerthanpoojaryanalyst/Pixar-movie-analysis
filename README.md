@@ -5,6 +5,8 @@
 
 This project is a Power BI dashboard that provides an interactive visualization of Pixar films, including their box office collections, genres, awards, and IMDb ratings. The goal is to analyze Pixar’s performance over the years and present insights in a dynamic and visually appealing format.
 
+#### Check out my LinkedIn post : https://www.linkedin.com/posts/keerthan-poojary_mavenpixarchallenge-mavenpixarchallenge-pixar-activity-7307267782809698306-Cn1K?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkaKugBOYCMe_h5ZZyhFpH6TGI6giLl80Q
+
 ### Close look : 
 
 ![Image](https://github.com/user-attachments/assets/62d2d17a-eb0d-480f-bb87-a2cc34f9b346)
